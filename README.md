@@ -4,4 +4,4 @@
 
 Some simple scripts created in order to play with Ruby
 
-[]Fibonnaci
+[x]Fibonnaci
