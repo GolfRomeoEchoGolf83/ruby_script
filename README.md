@@ -1,7 +1,7 @@
-## Ruby scripts (aka GISTS)
+# Ruby scripts (aka GISTS)
 
-# Scripts
+## Scripts
 
 Some simple scripts created in order to play with Ruby
 
-[]_Fibonnaci
+[]Fibonnaci
